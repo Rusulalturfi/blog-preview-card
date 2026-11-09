@@ -104,3 +104,15 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+
+### 1. How did using Figma designs as references affect your coding process?
+
+I mainly used the reference images and style guide. They helped me understand the image dimensions, colors, font styling, and spacing. Having a visual reference made it easier to organize the content and compare my work with the original design.
+
+### 2. What challenges did you encounter when aligning your code with the design specifications?
+
+I needed help adjusting the spacing, image sizes, and text to match the designs. I also practiced using Flexbox to center the cards and checking how they looked on smaller screens. Testing at 375px and 320px helped me understand how the layout adapts. I learned how to add and test hover and keyboard focus states.
+
+### 3. How can the feedback and community resources on Frontend Mentor help you improve as a developer?
+
+Feedback can help me identify mistakes and understand what I need to improve. Reviewing other developers’ solutions can show me different ways to structure HTML and write CSS. Community discussions and resources can also help me when I get stuck.
