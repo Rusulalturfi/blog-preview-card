@@ -105,6 +105,9 @@ This challenge is completely free. Please share it with anyone who will find it 
 
 **Have fun building!** 🚀
 
+## Lab Reflection
+
+
 ### 1. How did using Figma designs as references affect your coding process?
 
 I mainly used the reference images and style guide. They helped me understand the image dimensions, colors, font styling, and spacing. Having a visual reference made it easier to organize the content and compare my work with the original design.
